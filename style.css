@@ -150,7 +150,7 @@ div.video > iframe{
     font-size: 1.9em;
     font-weight: normal;
     padding: 10px;
-    font-family: var(--font-android);
+    font-family: var(--fonte-padrão);
 }
 
 .subtitulos{
